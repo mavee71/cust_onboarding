@@ -1,0 +1,41 @@
+You can submit an onboarding request via Salesforce Form, Microsoft Form, or email.
+If a corresponding case exists, Salesforce is the preferred method for submitting an onboard request.
+Ensure you provide complete and detailed information when submitting a request through email.  The forms are preferred because they guide you on what information the OpX team requires.
+To send a request by email, use the FCS address, freight.customerservice@wabtec.com or the OPX email, opx.helpdesk@wabtec.com.
+The onboarding process involves obtaining any neccessary approvals from Legal Compliance for Edison, ED, or the Business Unit,BU, Controller for Westinghouse, WH, and then submitting a request to the OpX team to load the information into Oracle. 
+In Westinghouse, WH,, new ship to addresses for existing customers do not require controller approval before entering. 
+In Westinghouse, WH,, new customers or new bill to addresses for existing customers require controller approval before entering into Oracle, depending on the Business Unit, BU, requirements.
+In Edison, ED,, both new ship to and new bill to addresses require compliance approval before entering. 
+The OpX team's role in onboarding is only to perform the Oracle setup after the requestor confirms any necessary approvals.
+You can check the approval status of your Edison, ED, compliance request by accessing the account and the address section in Salesforce and viewing the current state of your approval request. 
+You should obtain any necessary compliance approvals for Edison, ED, or necessary controller approvals for Westinghouse, WH, before submitting a customer onboard request to the OpX team.
+The OPX team is responsible for onboarding customers into Oracle after the requestor confirms any necessary approvals.
+The customer service representative, CSR, agent, or general requestor is responsible for obtaining necessary approvals before submitting an onboarding request to the OpX team.
+The OpX team cannot proceed with Oracle account or customer master changes without confirmation of the necessary approvals from the Edison, ED, compliance team or the Westinghouse, WH, business unit, BU, controllers.
+Kim Dooley is the Edison, ED, Compliance approval process expert. If you have questions about requesting approvals in Salesforce, you can contact her. 
+Rosy Perez is the Westinghouse, WH, controller for Wabtec Global Services, WGS. Rosy only needs to approve new customers.
+Rosy Perez is the Westinghouse, WH, controller for the Chicago Service Center, CRC.  Rosy only needs to approve new customers.
+Rosy Perez is the Westinghouse, WH, controller for the Houston Service Center, HOU. Rosy only needs to approve new customers.
+Rosy Perez is the Westinghouse, WH, controller for the Kansas City Service Center, KRC. Rosy only needs to approve new customers.
+Rosy Perez is the Westinghouse, WH, controller for the Columbia Service Center, SRC.  Rosy only needs to approve new customers.
+Michele Elam is the Westinghouse, WH, controller for Standard Car Truck, SCT.  Michele needs to approve new customers or new bill to addresses even if they already exist in another business unit, BU.
+Michele Elam is the Westinghouse, WH, controller for Cardwell Westinghouse, WH,, CRV. Michele needs to approve new customers or new bill to addresses even if they already exist in another business unit, BU.
+Heidi Bader is the Westinghouse, WH, controller for ATP.  You can also send a message to atp-accounting@wabtec.com for ATP approval requests.
+Jed Denison is the Westinghouse, WH, controller for Graham White, GW. You can also send a message to SLM-Accounting@wabtec.com for Graham White, GW, approval requests. Jed needs to approve new customers or new bill to addresses even if they already exist in another business unit, Bu.
+Cathy Cox is the Westinghouse, WH, controller for Longwood, LIW. Please copy Becky McWilliams on your Longwapproval requests. Cathy needs to approve new customers and updates to bill-to addresses, including payment terms and credit limits.
+Jason Chestney is the Westinghouse, WH, controller for Motive Power, MPI. Approval is needed for new customers and updates to bill to addresses, including payment terms and credit limits.
+Israel Castenada is the Westinghouse, WH, controller for Mexico, WMU, WMX. Please copy Luz Jonguitud on your Mexico, WMU, WMX approval requests. Israel needs to approve new customers and updates to bill to addresses, including payment terms and credit limits.
+Israel Castenada is the Westinghouse, WH, controller for MRC. Israel needs to approve new customers and updates to bill to addresses, including payment terms and credit limits.
+Ellen Nobles and Amy Clay are the Westinghouse, WH, controller contacts for Railroad Friction Products, RFP.  Amy approves new customers and updates to bill to addresses including payment terms and credit limits. Ellen approves new bill to addresses.
+Deborah Tustin is the Westinghouse, WH, controller for Rubber Products, RPD.  Deborah needs to approve new customers and updates to bill to addresses, including payment terms and credit limits.
+Alison Kennedy is the Westinghouse, WH, controller for Locomotive Division, WLD. Alison needs to approve new customers and updates to bill to addresses, including payment terms and credit limits.
+Alison Kennedy is the Westinghouse, WH, controller for Motive Equipment, MEI. Alison needs to approve new customers and updates to bill to addresses, including payment terms and credit limits.
+Nemia Hazlet is the Westinghouse, WH, controller for Wabtec Railway Electronics, WRE. Nemia needs to approve new customers and updates to bill to addresses, including payment terms and credit limits.
+
+
+
+
+
+
+
+
