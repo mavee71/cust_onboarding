@@ -13,10 +13,10 @@ assistant = pc.assistant.Assistant(assistant_name="customer-onboard")
 
 # Streamlit app layout
 st.title("Oracle ERP FCS Customer Onboarding Assistant")
-st.write("Interact with the assistant to ask questions about the onboarding process:")
+st.write("Interact with the assistant to obtain information about the onboarding process:")
 
 # User input
-user_input = st.text_input("Enter your question and submit:")
+user_input = st.text_input("Ask your question and click submit:")
 
 if st.button("Submit"):
     if user_input:
