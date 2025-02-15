@@ -3,6 +3,7 @@ If a corresponding case exists, Salesforce is the preferred method for submittin
 Ensure you provide complete and detailed information when submitting a request through email.  The forms are preferred because they guide you on what information the OpX team requires.
 To send a request by email, use the FCS address, freight.customerservice@wabtec.com or the OPX email, opx.helpdesk@wabtec.com.
 The onboarding process involves obtaining any neccessary approvals from Legal Compliance for Edison, ED, or the Business Unit,BU, Controller for Westinghouse, WH, and then submitting a request to the OpX team to load the information into Oracle. 
+The sequence of the onboarding process is to first, obtain any nescessary approvals from the Edison, ED, Compliance Group or the Westinghouse, WH, Business Unit, BU, controllers.  Second, submit your onboard request to the OpX team only after your approvals are confirmed. Third, OpX will load the approved customer master details into Oracle. 
 In Westinghouse, WH,, new ship to addresses for existing customers do not require controller approval before entering. 
 In Westinghouse, WH,, new customers or new bill to addresses for existing customers require controller approval before entering into Oracle, depending on the Business Unit, BU, requirements.
 In Edison, ED,, both new ship to and new bill to addresses require compliance approval before entering. 
