@@ -13,7 +13,8 @@ You should obtain any necessary compliance approvals for Edison, ED, or necessar
 The OPX team is responsible for onboarding customers into Oracle after the requestor confirms any necessary approvals.
 The customer service representative, CSR, agent, or general requestor is responsible for obtaining necessary approvals before submitting an onboarding request to the OpX team.
 The OpX team cannot proceed with Oracle account or customer master changes without confirmation of the necessary approvals from the Edison, ED, compliance team or the Westinghouse, WH, business unit, BU, controllers.
-Kim Dooley is the Edison, ED, Compliance approval process expert. If you have questions about requesting approvals in Salesforce, you can contact her. 
+Kim Dooley is the Edison, ED, Compliance approval process expert. 
+Edison compliance approvals are initiated through Salesforce. If you have questions about how to action the Salesforce approval, you can contact Kim Dooley, the Edison, ED, Compliance approval process expert.
 Rosy Perez is the Westinghouse, WH, controller for Wabtec Global Services, WGS. Rosy only needs to approve new customers.
 Rosy Perez is the Westinghouse, WH, controller for the Chicago Service Center, CRC.  Rosy only needs to approve new customers.
 Rosy Perez is the Westinghouse, WH, controller for the Houston Service Center, HOU. Rosy only needs to approve new customers.
